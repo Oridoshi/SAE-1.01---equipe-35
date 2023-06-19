@@ -1,0 +1,62 @@
+section {	float : left;
+	width : 30%;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+	margin-bottom : 5%;
+	background-color: white;	border: 1px solid #353E4F;
+}
+
+table {
+	margin-left   : 5%;
+	margin-bottom : 5%;
+	border-collapse : collapse;
+	width: 90%;
+}
+
+tr:nth-child(even) {
+	border-bottom: 1px white solid;
+}
+
+.horaire{
+	font-size: 21.6px;
+	padding-bottom: 30px;
+	padding-top: 10px;
+}
+
+div{
+	width: 100%;
+}
+
+h2 {
+	padding    : 1%;
+	margin-top : 0px;
+	text-align : center;
+	text-decoration : #353E4F underline;
+	font-size  : 2em;
+}
+
+.marge {
+	margin-top : 50%;
+}
+
+.heureDebut {
+	padding-top    : 0%;
+	padding-bottom : 7%;
+	padding-right   : 5%;
+	text-align     : right;
+}
+
+.heureFin {
+	padding-bottom : 0%;
+	padding-top    : 7%;
+	padding-right   : 5%;
+	text-align     : right;
+}
+
+.passage {
+	padding-bottom : 7%;
+	background  : #353E4F;
+	width       : 40%;
+	text-align  : center;
+	color       : white;
+}

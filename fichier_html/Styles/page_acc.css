@@ -1,0 +1,17 @@
+.button{
+	background-color: #353E4F;
+	box-shadow: 6px 6px 10px #242b36;
+	width: 75%;
+	color: white;
+	height: 120px;
+	font-size: 20px;
+	margin-left: 12.5%;
+	margin-bottom: 25px;
+}
+
+.button:hover {
+	background-color: white;
+	color: #353E4F;
+	transition: 500ms;
+}
+

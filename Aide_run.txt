@@ -1,0 +1,15 @@
+LINUX : 
+./run.sh 1    -> pour compiler et executer l'exercice1
+./run.sh 2    -> pour compiler et executer l'exercice2
+./run.sh 3    -> pour compiler et executer l'exercice3
+
+WINDOWS :
+    POWERSHELL :
+    ./run.bat 1    -> pour compiler et executer l'exercice1
+    ./run.bat 2    -> pour compiler et executer l'exercice2
+    ./run.bat 3    -> pour compiler et executer l'exercice3
+
+    CMD :
+    run.bat 1    -> pour compiler et executer l'exercice1
+    run.bat 2    -> pour compiler et executer l'exercice2
+    run.bat 3    -> pour compiler et executer l'exercice3
